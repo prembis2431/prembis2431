@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Premobrata Biswas.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Full-Stack Web Development (MERN).
+- 🌱 I’m currently learning Full-stack web development (MERN).
 - 💞️ I’m looking to collaborate on Open source contributions.
 - 📫 Email: prembis2431@gmail.com
 - ⚡ Fun fact: Still on an epic quest to discover it!
